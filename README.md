@@ -1,7 +1,10 @@
 # OPEN-SOURCE-TOOL-FOR-DATA-SCIENCE-2209-MIMZ03E1-final-project
-Code introduction: code of final report. 
-Report content: Face mask recognition
-Team members: 01 Chen Guanghui; 02 Liang Chengyang; 20 Chen Zihan; 21 Huang Ziyu
+Code introduction: code of final report.  
+
+Report content: Face mask recognition  
+
+Team members: 01 Chen Guanghui; 02 Liang Chengyang; 20 Chen Zihan; 21 Huang Ziyu  
+
 Reference website：
 1.ZHW_AI课题组的《基于百度paddlehub的人脸口罩检测》
 网址：http://t.csdn.cn/0z85e
